@@ -18,7 +18,7 @@ from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 
 # put the common key here to decrypt things
-wiiu_common_key = ''
+wiiu_common_key = 'd7b00402659ba2abd2cb0db27fa2b656'
 
 ##########################
 
